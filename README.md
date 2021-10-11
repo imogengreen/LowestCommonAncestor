@@ -1,5 +1,5 @@
 # LowestCommonAncestor
-Lowest Common Ancestor assignment implemented in Java and Python as part of CSU33012 Software Engineering.
+Lowest Common Ancestor assignment as part of CSU33012 Software Engineering.
 
 This is an implementation of the Lowest Common Ancestor problem in a binary tree in both Java and Python. There is also a unit test file for each implementation.
 
