@@ -30,4 +30,5 @@ When developing Python code, we must have Python installed on our local machine.
 - If it is not already installed, we can install in one simple step on a Windows machine by typing "python" into command prompt. This then takes us to the Microsoft Store where Python 3 can be installed (current version: Python 3.9.7)
 
 **DAG Branch**
+
 I have created this branch so that I can include functionality for the Java LCA implementation to work for Directed Acyclic Graphs.
